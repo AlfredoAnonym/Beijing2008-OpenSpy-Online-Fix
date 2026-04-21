@@ -1,6 +1,8 @@
 # Beijing2008-OpenSpy-Online-Fix
 An online fix, enabling OpenSpy in Beijing 2008 video game.
 
+MAKE SURE YOU LAUNCH YOUR GAME WITH ADMINISTRATOR RIGHTS, AFTER PATCHING THE GAME! Thanks ClassicPCGames for the tip.
+
 You need an OpenSpy account with Namespace ID
 
 Tutorial:
